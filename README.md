@@ -39,4 +39,7 @@ I am a backend web developer from India
  <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> -->
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java%20-964B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-FFA500.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="mongo" src="https://img.shields.io/badge/mongo%20-006400.svg?&style=for-the-badge&logo=mongo&logoColor=white" />
+<img align="left" alt="redis" src="https://img.shields.io/badge/redis%20-8B0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <br>
