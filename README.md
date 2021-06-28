@@ -35,6 +35,8 @@ I am a backend web developer from India
 [ <img align="left" alt="topcoder" src="https://img.shields.io/badge/topcoder-800080.svg?&style=for-the-badge&logo=topcoder&logoColor=white" /> ](https://www.topcoder.com/members/twinstar)
 [ <img align="left" alt="hackerrank" src="https://img.shields.io/badge/hackerrank-3CB043.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /> ](https://www.hackerrank.com/littlestar)
 [ <img align="left" alt="hackerearth" src="https://img.shields.io/badge/hackerearth-281E5D.svg?&style=for-the-badge&logo=hackerearth&logoColor=white" /> ](https://www.hackerearth.com/@Twinstar)
+[ <img align="left" alt="leetcode" src="https://img.shields.io/badge/leetcode-FF8C00.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /> ](https://leetcode.com/Twinstar/)
+
 
 
 
