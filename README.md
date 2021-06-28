@@ -30,6 +30,14 @@ I am a backend web developer from India
 [ <img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /> ](https://stackoverflow.com/users/3656725/twinstar/)
 [ <img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> ](https://www.facebook.com/jeslani.prerna/)
 [ <img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> ](https://twitter.com/pretwi35/)
+[ <img align="left" alt="codechef" src="https://img.shields.io/badge/codechef-964B00.svg?&style=for-the-badge&logo=codechef&logoColor=white" /> ](https://www.codechef.com/users/twinstar)
+[ <img align="left" alt="spoj" src="https://img.shields.io/badge/spoj-289DF4.svg?&style=for-the-badge&logo=spoj&logoColor=white" /> ](https://www.spoj.com/users/twinstar/)
+[ <img align="left" alt="topcoder" src="https://img.shields.io/badge/topcoder-800080.svg?&style=for-the-badge&logo=topcoder&logoColor=white" /> ](https://www.topcoder.com/members/twinstar)
+[ <img align="left" alt="hackerrank" src="https://img.shields.io/badge/hackerrank-3CB043.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /> ](https://www.hackerrank.com/littlestar)
+[ <img align="left" alt="hackerearth" src="https://img.shields.io/badge/hackerearth-281E5D.svg?&style=for-the-badge&logo=hackerearth&logoColor=white" /> ](https://www.hackerearth.com/@Twinstar)
+
+
+
 <br>
 <br>
 ## Expertise
