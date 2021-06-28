@@ -44,4 +44,5 @@ I am a backend web developer from India
 <img align="left" alt="mongo" src="https://img.shields.io/badge/mongo%20-006400.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis%20-8B0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-289DF4.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/python%20-FCE205.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <br>
