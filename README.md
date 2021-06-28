@@ -43,4 +43,5 @@ I am a backend web developer from India
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-0492C2.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="mongo" src="https://img.shields.io/badge/mongo%20-006400.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis%20-8B0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-289DF4.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <br>
