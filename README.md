@@ -35,6 +35,7 @@ I am a backend web developer from India
 [ <img align="left" alt="spoj" src="https://img.shields.io/badge/spoj-289DF4.svg?&style=for-the-badge&logo=spoj&logoColor=white" /> ](https://www.spoj.com/users/twinstar/)
 [ <img align="left" alt="topcoder" src="https://img.shields.io/badge/topcoder-800080.svg?&style=for-the-badge&logo=topcoder&logoColor=white" /> ](https://www.topcoder.com/members/twinstar)
 <br>
+<br>
 [ <img align="left" alt="hackerrank" src="https://img.shields.io/badge/hackerrank-3CB043.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /> ](https://www.hackerrank.com/littlestar)
 [ <img align="left" alt="hackerearth" src="https://img.shields.io/badge/hackerearth-281E5D.svg?&style=for-the-badge&logo=hackerearth&logoColor=white" /> ](https://www.hackerearth.com/@Twinstar)
 [ <img align="left" alt="leetcode" src="https://img.shields.io/badge/leetcode-FF8C00.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /> ](https://leetcode.com/Twinstar/)
@@ -53,8 +54,10 @@ I am a backend web developer from India
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-0492C2.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="mongo" src="https://img.shields.io/badge/mongo%20-006400.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <br>
+<br>
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis%20-8B0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-289DF4.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-FCE205.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/cplusplus%20-E2E5DE.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+<br>
 <br>
