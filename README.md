@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hello World 👋
 -->
 
-### Hello World 👋
+
 I am a backend web developer from India
 - 🔭 Working on writing microservices in Java language (spring framework)
 - 🔭 Handling MySQL, Mongo, Redis databases
