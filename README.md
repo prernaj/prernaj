@@ -38,6 +38,5 @@ I am a backend web developer from India
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="java" src="https://img.shields.io/badge/java-java-%23A52A2A.cvg" />
-<br>
+<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%236DB33F.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <br>
