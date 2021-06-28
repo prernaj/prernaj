@@ -46,6 +46,7 @@ I am a backend web developer from India
 <br>
 <br>
 ## Expertise
+<br>
 <!-- <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
  <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
@@ -61,5 +62,4 @@ I am a backend web developer from India
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-289DF4.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-FCE205.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/cplusplus%20-E2E5DE.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
-<br>
 <br>
